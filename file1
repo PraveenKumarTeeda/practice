@@ -1,0 +1,4 @@
+git add filename
+git commit -m filename
+git push -u originmain[D[D[D[D main
+git pull
