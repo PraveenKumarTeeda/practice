@@ -1,0 +1,4 @@
+git config --global user.name "praveen"
+git config --global user.email "praveenkumarteeda@gmail.com"
+git clone url
+ssh-keygen -t ed25519 -c "praveenkumarteeda@gmail.com"
